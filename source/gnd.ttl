@@ -42,6 +42,7 @@ Add new object property
   - #variantNameEntityForTheWork
   - #variantNameEntityForTheSubjectHeading
   - #variantNameEntityForThePlaceOrGeographicName
+  - #variantNameEntityForThePerson
 
 *Changes from 2023-09-20 to 2024-12-02
 
